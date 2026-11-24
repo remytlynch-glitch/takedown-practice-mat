@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Playtest",
   "resources": {
-    "hash": "sha256-3I8UW67eG1GB/tq2gX90/0yp1u9fYaa3Q0FCBpH51mo=",
+    "hash": "sha256-iQcrAHmlhQy2ha8siaSD79XbQ/9PnSm4yJh4cPIVomk=",
     "jsModuleNative": {
       "dotnet.native.8.0.34.aneno3vo71.js": "sha256-Uc+HxggmSGuU1CkPjbVFhBiqRQ6cUsH1lnQ1keONjkE="
     },
@@ -26,7 +26,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-opoh5mb9g1OUt3obpwrrOvmcQ+5UbUJPcBRMoP63AhU=",
       "Microsoft.JSInterop.wasm": "sha256-4/YsPhEXCqvGPt936GE/DOyraA7bqf10JyTQ9P6uKmY=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-UbKsaDaH8XRDrreQmUsdfmb7DdXFV2gQj61+h2MSKi8=",
-      "Playtest.wasm": "sha256-2Fmu0U5vNF/FsujWefSB2+Kk1KnASv1bJDGP/ga9zZQ=",
+      "Playtest.wasm": "sha256-MH/tlGZiupu2GVm6PTRWQXN6TwrUPFiHV9oDrciK2VM=",
       "System.Collections.Concurrent.wasm": "sha256-YeQkw38yk36hmoZtmthXa46GrwB8r57KLv9HqtwYgxo=",
       "System.Collections.wasm": "sha256-BbiLnfr4Esld1cd99V4IWSC0HVrHoh4ZFFiMhsw47U0=",
       "System.ComponentModel.wasm": "sha256-ZB4bImKkC9sEoRj/GiMH3Ha2qf3wrvv1mWoU74SO1kw=",
